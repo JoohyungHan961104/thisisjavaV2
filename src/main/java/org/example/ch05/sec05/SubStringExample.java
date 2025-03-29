@@ -2,7 +2,7 @@ package org.example.ch05.sec05;
 
 public class SubStringExample {
 	public static void main(String[] args) {	
-		String ssn = "899980815-1234567 ";
+		String ssn = "8999515-1234567 ";
 		
 		String firstNum = ssn.substring(0, 6);
 		System.out.println(firstNum);		
